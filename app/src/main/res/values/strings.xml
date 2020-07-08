@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="welcome_string">Welcome to Music Structural App</string>
+    <string name="go_to_library">Proceed to Library</string>
+    <string name="song">Song</string>
+    <string name="artist">Artist</string>
+    <string name="backward_symbol">⏪</string>
+    <string name="play_symbol">▶</string>
+    <string name="forward_symbol">⏩</string>
+</resources>
